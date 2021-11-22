@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hitanya Srivastava</h1>
 <h3 align="center">A Computer Science Student and Software Developer</h3>
 
-- 🌱 I’m currently learning **C Language**
+- 🔭 I’m currently working on [Some Cool Projects](github.com/hitanya-srivastava/cards-game)
+
+- 🌱 I’m currently learning **Python, C Language, Data Structure and Algorithms and more**
 
 - 👨‍💻 All of my projects are available at [github.com/hitanya-srivastava](github.com/hitanya-srivastava)
 
+- 💬 Ask me about **FUN PYTHON CODES**
+
 - 📫 How to reach me **srivastavahitanya04@gmail.com**
+
+- ⚡ Fun fact **There are 700 Computer Languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
